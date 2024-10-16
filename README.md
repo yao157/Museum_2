@@ -1,5 +1,6 @@
 # Museum 2 landing page
 Implemented landing page via [link](https://yao157.github.io/Museum_2/).
+
 With accordance to [Figma design](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957) - BEM and SCSS used.
 
 - The design 1440px
